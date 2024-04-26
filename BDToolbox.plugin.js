@@ -1,7 +1,7 @@
 /**
  * @name BDToolbox
  * @author DaBluLite
- * @description A button next to the inbox button that opens a list of tools (Heavily inspired from VencordToolbox, full credits to Vendicated and Autumnvn for the original plugin).
+ * @description A button next to the inbox button that opens a list of tools (Port of VencordToolbox, full credits to Vendicated and AutumnVN for the original plugin).
  * @version 1.0.0
  * @authorId 582170007505731594
  * @invite ZfPH6SDkMW
